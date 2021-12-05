@@ -1,0 +1,45 @@
+.sun-icon {
+  color: orange;
+  font-size: 100px;
+  padding: 10px;
+}
+
+.weather-icon-hourly {
+  color: orange;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.current-temp-summary {
+  padding: 10px;
+  text-align: right;
+}
+
+.current-temp-card {
+  width: 20rem;
+}
+
+.cards-all {
+  margin: 20px;
+}
+
+.search-city-card {
+  width: 18rem;
+}
+.dailyColumns {
+  width: 6.3rem;
+  text-align: center;
+}
+
+.current-temp-actual {
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+#far-link {
+  text-decoration: none;
+}
+
+#celsius-link {
+  text-decoration: none;
+}
